@@ -1,0 +1,20 @@
+body, html{
+    margin: 0;
+    padding: 0;
+   background-color: rgba(0, 0, 0, 0.575);
+    
+}
+
+div{
+    width: 200px; /* largura da caixa */
+    height: 150px; /* altura da caixa */
+    background-color: #f0f0f0; /* cor de fundo */
+    border: 2px solid #333; /* borda sólida de 2px na cor cinza */
+    border-radius: 10px; /* borda arredondada */
+    box-shadow: 2px 2px 5px #888; /* sombra */
+    padding: 15px; /* preenchimento interno */
+    background-position: center;
+}
+
+   
+
