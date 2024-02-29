@@ -6,6 +6,9 @@ body, html{
 }
 
 div{
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
     width: 200px; /* largura da caixa */
     height: 150px; /* altura da caixa */
     background-color: #f0f0f0; /* cor de fundo */
